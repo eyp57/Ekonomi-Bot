@@ -1,0 +1,20 @@
+{
+  "name": "ekonomi-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "discord.js": "^13.6.0",
+    "fs": "^0.0.1-security",
+    "glob": "^7.2.0",
+    "lodash": "^4.17.21",
+    "yaml": "^1.10.2"
+  }
+}
